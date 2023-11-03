@@ -1,5 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=M+PLUS+Rounded+1c&family=Noto+Sans&family=Nunito:ital@1&family=Oswald&family=Permanent+Marker&family=Roboto+Slab:wght@300&family=Titillium+Web:ital,wght@1,300&display=swap");
+
 body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+* {
+  font-family: "Oswald";
 }
